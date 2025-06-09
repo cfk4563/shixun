@@ -10,6 +10,9 @@ def my_decorator(func):
 def say_hello():
     print("Hello!")
 
+
+
+
 say_hello()
 
 # 带参数的装饰器
